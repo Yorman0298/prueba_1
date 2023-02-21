@@ -16,3 +16,18 @@ section {
     height: 200px;
     background-color: aqua;
 }
+
+section:nth-child(1) {
+    background-color: yellow;
+    height: 300px;   
+}
+
+section:nth-child(2){
+    background-color: rgb(170, 16, 106);
+    height: 500px;   
+}
+
+section:nth-child(3){
+    background-color: rgb(12, 58, 187);
+    height: 200px;   
+}
