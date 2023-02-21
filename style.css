@@ -7,6 +7,12 @@
 a {
     text-decoration: none;
 }
+
 body {
     background-color: black;
+}
+
+section {
+    height: 200;
+    background-color: aqua;
 }
